@@ -26,6 +26,7 @@ Unicorn Bot is a customizable bot, fully customizable Discord bot that is consta
 
 ***Miscellaneous***: All other commands like feedback and bugreport
 Unicorn  also comes packed with a variety of features, such as:
+
 ***BACKUPS***: This commands are use to save all messages,channels,roles,settings in a server
 
 ***ANTINUKE***: This is a command that only the server owner can perform with
