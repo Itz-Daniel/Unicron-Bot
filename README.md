@@ -13,14 +13,25 @@ Unicorn Bot is a customizable bot, fully customizable Discord bot that is consta
 ***Fun & Games***: Tons of fun commands like trivia, meme, emojify, and a variety of animal pic commands like cat, dog, and fox
 
 ***Information***: Commands like userinfo and serverinfo for general utility
-Color: Change your Discord color with commands like color, createcolor and randomcolor
+
+***IMAGES***: This are some good images to look at the embrace the beauty ness of it
+
+***ANIMALS***: This are some beautiful animals we love and Unicorn has there adorable pics of them
+
+***Color***: Change your Discord color with commands like color, createcolor and random-color
+
+***ECONOMY***: This are game currency use to buy some perks in shop and enjoy the entertainment of Unicorn Economy 
+
 ***Owner***: Owner specific commands like eval and servers
 
 ***Miscellaneous***: All other commands like feedback and bugreport
 Unicorn  also comes packed with a variety of features, such as:
-***BACKUPS**: This commands are use to save all messages,channels,roles,settings in a server
+***BACKUPS***: This commands are use to save all messages,channels,roles,settings in a server
+
 ***ANTINUKE***: This is a command that only the server owner can perform with
-***MUSIC***: This are quality music which has a good background and more exclusive than amuzon 
+
+***MUSIC***: This are quality music which has a good background and more exclusive than Amazon
+ 
 ***LEVELS***: This are epic level ranks that use to qualify a user messages and ranks
 
 Auto role assignment
