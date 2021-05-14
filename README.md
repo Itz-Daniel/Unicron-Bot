@@ -15,15 +15,20 @@ Unicorn Bot is a customizable bot, fully customizable Discord bot that is consta
 ***Information***: Commands like userinfo and serverinfo for general utility
 Color: Change your Discord color with commands like color, createcolor and randomcolor
 ***Owner***: Owner specific commands like eval and servers
+
 ***Miscellaneous***: All other commands like feedback and bugreport
 Unicorn  also comes packed with a variety of features, such as:
 
 Auto role assignment
 Server verification via reactions
 Welcome messages and farewell messages
+
 ***Logging*** for mod commands and various events
+
 ***Moderator only*** channels
+
 ***A starboard***
+
 ***Auto kicking*** when a warn limit is reached
 Auto random colors when members join
 Per command disabling
