@@ -11,6 +11,7 @@ Unicorn Bot is a customizable bot, fully customizable Discord bot that is consta
 ***Administration***: A huge amount of settings to customize with commands like setprefix, setwelcomemessage, and setverificationrole
 ***Moderation***: Commands such as kick, ban, and mute to assist your moderator staff
 ***Fun & Games***: Tons of fun commands like trivia, meme, emojify, and a variety of animal pic commands like cat, dog, and fox
+
 ***Information***: Commands like userinfo and serverinfo for general utility
 Color: Change your Discord color with commands like color, createcolor and randomcolor
 ***Owner***: Owner specific commands like eval and servers
